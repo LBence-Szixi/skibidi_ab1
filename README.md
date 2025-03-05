@@ -14,6 +14,8 @@ ez itt egy commit
 
 Nézd meg [ezt az oldalt!](https://laky2k8.hu)
 
+![Itt egy szép kép: ](https://aktivkalandor.hu/wp-content/uploads/2023/12/fuzer-vara-scaled-1-800x600.jpg "Fűzéri vár")
+
 Tudok bele rakni HTML-t is:
 <table>
 
